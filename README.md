@@ -1,1 +1,1 @@
-# gitali
+# git tu zendegi
